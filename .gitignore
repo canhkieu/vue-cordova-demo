@@ -22,3 +22,13 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw*
+
+# Cordova
+/www
+/platforms
+/plugins
+
+# Cordova
+/www
+/platforms
+/plugins
